@@ -12,10 +12,8 @@ Return the lexicographically smallest possible string num that meets the conditi
 
 Example 1:
 
-  Input: pattern = "IIIDIDDD"
-  
-  Output: "123549876"
-  
+  Input: pattern = "IIIDIDDD"  
+  Output: "123549876"  
   Explanation:
   
     At indices 0, 1, 2, and 4 we must have that num[i] < num[i+1].
@@ -26,10 +24,8 @@ Example 1:
   
 Example 2:
 
-  Input: pattern = "DDD"
-  
-  Output: "4321"
-  
+  Input: pattern = "DDD"  
+  Output: "4321"  
   Explanation:
   
     Some possible values of num are "9876", "7321", and "8742".

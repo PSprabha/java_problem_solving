@@ -11,6 +11,7 @@ A 0-indexed string num of length n + 1 is created using the following conditions
 Return the lexicographically smallest possible string num that meets the conditions.
 
 Example 1:
+
   Input: pattern = "IIIDIDDD"
   Output: "123549876"
   Explanation:
@@ -21,6 +22,7 @@ Example 1:
     Note that "123414321" is not possible because the digit '1' is used more than once.
   
 Example 2:
+
   Input: pattern = "DDD"
   Output: "4321"
   Explanation:

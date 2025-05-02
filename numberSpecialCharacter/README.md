@@ -52,4 +52,5 @@ There are no special characters in word.
 Constraints:
 
 1 <= word.length <= 2 * 105
+
 word consists of only lowercase and uppercase English letters.
